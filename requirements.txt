@@ -1,2 +1,2 @@
-streamlit
-openai
+streamlit~=1.44.1
+protobuf~=5.29.4
